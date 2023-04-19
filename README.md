@@ -1,3 +1,4 @@
+![Repo size](https://img.shields.io/github/repo-size/anpavlovsk/CICD-Jenkins-Docker-Minikube)
 # CI/CD pipeline for NodeJs and MongoDB application using Jenkins and deployment to Minikube
 
 ## Road map
